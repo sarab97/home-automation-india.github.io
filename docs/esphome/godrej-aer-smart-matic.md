@@ -1,3 +1,8 @@
+---
+title: Control Godrej Aer Smart matic
+parent: ESPHome
+---
+
 ## Control Godrej Aer Smart matic
 
 [Godrej aer Smart Matic Kit](https://www.amazon.in/Godrej-aer-Smart-Matic-BLUETOOTH/dp/B07YFBYRTG/ref=sr_1_1?keywords=godrej%2Bbluetooth&qid=1665497329&qu=eyJxc2MiOiIxLjI1IiwicXNhIjoiMS4yNyIsInFzcCI6IjEuMDAifQ%3D%3D&sr=8-1&th=1) is a BLE enabled air freshner kit. You can hook it up to sensors like PIR to only spray when someone is detected. 
