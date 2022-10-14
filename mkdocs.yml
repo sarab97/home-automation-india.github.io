@@ -2,6 +2,7 @@ site_name: Home Automation IN
 site_url: https://home-automation-india.github.io/
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.indexes
